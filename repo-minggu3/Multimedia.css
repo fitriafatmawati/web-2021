@@ -1,0 +1,47 @@
+* { box-sizing: border-box;
+}
+BODY {
+    margin: 0;
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+/* Style The Header */
+.HEADER {
+    padding: 20px;
+    text-align: center;
+}
+.CONTAINER{
+    background-color:white;
+    margin: 100px auto;
+    width: 900pt;
+	height: 800pt;
+    border-radius: 25px;
+}
+/* Style KRS */
+.KRS{
+    font-family: Times New Roman;
+    color:black;
+    margin: 50px auto;
+    padding: 0px;
+    width: 590pt;
+    border-radius: 5px;
+}
+
+.trb {
+    background-color:lightgrey;
+}
+
+.trbody{
+    background-color:white;
+}
+.SL{
+    font-family: sans-serif;
+    color:black;
+    background-color: white;
+    margin: 50px auto;
+    padding: 0px 0px 20px 0px;
+    width: 900pt;
+    border: groove;
+    border-width: thin;
+    border-radius: 25px;
+}
